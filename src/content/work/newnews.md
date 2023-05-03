@@ -4,7 +4,7 @@ publishDate: 2023-03-01 00:00:00
 img: /assets/newnews-project.png
 img_alt: Landing page of the newnews app
 description: |
-  News app
+  Minimalist news application
 tags:
   - React Native  
 ---
