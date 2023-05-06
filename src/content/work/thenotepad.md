@@ -3,6 +3,8 @@ title: The Notepad
 publishDate: 2020-03-02 00:00:00
 img: /assets/thenotepad-project.png
 img_alt: List of different notes on the notepad app
+deploy: https://thenotepad.netlify.app/
+repo: https://github.com/FrankBatista1/TheNotepad-client-project/
 description: |
   A minimalistic note taking app
 tags:

@@ -3,6 +3,7 @@ title: Newnews
 publishDate: 2023-03-01 00:00:00
 img: /assets/newnews-project.png
 img_alt: Landing page of the newnews app
+repo: https://github.com/FrankBatista1/news-app/
 description: |
   Minimalist news application
 tags:

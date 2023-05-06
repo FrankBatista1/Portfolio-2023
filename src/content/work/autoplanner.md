@@ -3,6 +3,8 @@ title: AutoPlanner
 publishDate: 2021-08-20 00:00:00
 img: /assets/autoplanner-project.png
 img_alt: Landing page of the autoplanner app
+deploy: https://autoplanner.netlify.app/
+repo: https://github.com/FrankBatista1/AutoPlanner-client-project/
 description: |
   Organize weekly/monthly workout routines
 tags:

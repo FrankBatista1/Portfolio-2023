@@ -2,6 +2,8 @@
 title: Apple Catcher
 publishDate: 2021-08-20 00:00:00
 img: /assets/applecatcher-project.png
+deploy: https://frankbatista1.github.io/AppleCatcher-project/
+repo: https://github.com/FrankBatista1/AppleCatcher-project/
 img_alt: A retro video game with a red apple in the center of the screen.
 description: |
   Retro style video game
